@@ -19,6 +19,14 @@ This tool is temporarily free, you can follow the telegram channel to get update
 the key (the key will be updated).
 ```
 
+## Change Logs
+```sh
+1.0 6.19.2025
+- Base & Configuration
+- Additional Feature
+```
+
+
 ## Usage
 ```sh
 Linux   | apt update
